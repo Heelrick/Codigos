@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+#frex {width: 500px; margin: 0 auto;}
+.frex1 {width: 100px; height: 100px; padding: 25px; border: 1px solid #c9900a; position: relative; display: inline-block; margin: 2px; background: #060606; vertical-align: top;}
+.frex2 {font-family: Oswald; font-weight: 700; text-transform: uppercase; color: #c9900a; font-size: 30px; text-align: center; padding-top: 8px;}
+.frex2 span {color:#444; font-size: 20px;}
+.frex3 {font-family: Oswald; font-weight: 300px; color: #444; text-transform: uppercase; text-align: center; padding-top: 8px; font-size: 15px;}
+.frex3 a {color: #444;}
+.frex3 a:visited {color: #444;}
+.frex4 {font-family: Oswald; font-weight: 600; font-size: 7px; letter-spacing: 2px; color: #c9900a; text-align: center; text-transform: uppercase; line-height: 140%; padding-top: 8px;}
+.frexon {font-family: Oswald; font-weight: 600; font-size: 15px; letter-spacing: 2px; color: #c9900a; text-align: center; text-transform: uppercase; line-height: 140%;}
