@@ -1,6 +1,6 @@
 .aibpst{width: 430px;height: auto;background-color:#0A0A0A;margin: 0 auto;padding:20px;}
 .aibtxt {text-align: justify;padding-left:35px;padding-right:35px;padding-bottom:35px;padding-top:15px;color: grey;font-family: Fira sans;font-size: 9.5pt;}
-.aibln {background-color:#F7CA00;height:1px;width:400px;position:absolute;margin-top:30px;margin-left:10px;opacity:0.3;}
+.aibln {background-color:#0A0A0A;height:1px;width:400px;position:absolute;margin-top:30px;margin-left:10px;opacity:0.3;}
 .aibtxt span{color: #F7CA00;font-weight:900;}
 .aibtt{color: transparent;letter-spacing: 1.2px;font-family: 'Poppins';font-weight: 900;text-align: center;text-transform: uppercase;font-size: 25px;letter-spacing:-0.5px;margin: 0 auto;margin-top:-20px;-webkit-text-stroke: 1px #F7CA00;line-height:2;
 }
