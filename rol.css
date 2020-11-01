@@ -2,7 +2,7 @@
 .aibtxt {text-align: justify;padding-left:35px;padding-right:35px;padding-bottom:35px;padding-top:15px;color: grey;font-family: Fira sans;font-size: 9.5pt;}
 .aibln {background-color:#F7CA00;height:1px;width:400px;position:absolute;margin-top:30px;margin-left:10px;opacity:0.3;}
 .aibtxt span{color: #F7CA00;font-weight:900;}
-.aibtt{color: transparent;letter-spacing: 1.2px;font-family: 'Poppins';font-weight: 900;text-align: center;text-transform: uppercase;font-size: 25px;letter-spacing:-0.5px;margin: 0 auto;margin-top:-20px;-webkit-text-stroke: 1px #65594D;line-height:2;
+.aibtt{color: transparent;letter-spacing: 1.2px;font-family: 'Poppins';font-weight: 900;text-align: center;text-transform: uppercase;font-size: 25px;letter-spacing:-0.5px;margin: 0 auto;margin-top:-20px;-webkit-text-stroke: 1px #F7CA00;line-height:2;
 }
 .aibtt b{color: #F7CA00;letter-spacing:-2px;-webkit-text-stroke: 0px}
 .aibtt span{color:#F7CA00; font-size:15px;background-color:#0A0A0A;margin-top:20px;width:25px;z-index:1;margin-left:-9px;position:absolute;}
